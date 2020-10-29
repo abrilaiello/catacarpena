@@ -1,0 +1,279 @@
+@import "responsive300";
+@import "responsive400";
+@import "responsive700";
+@import "responsive1000";
+@import "responsive1300";
+
+
+$amarillo: #ffe200;
+$celeste: #12D6C0;
+$bebas: 'Bebas Neue', sans-serif;
+$poppins: 'poppins', sans-serif;
+
+
+
+@mixin cataheader{
+	color: white;
+    position: relative;
+    z-index: 2;
+    font-family: $bebas;
+}
+
+@mixin carpenaheader{
+	color: $amarillo;
+    position: relative;
+    font-family: $bebas; 
+
+}
+
+@mixin h1{
+margin: 0%;
+  color: white;
+  display: inline-flex;
+  font-family: $poppins;
+  position: relative;
+  border-bottom-style: solid;
+  border-bottom-color: white; }
+
+@mixin imgseccionmusica{
+	margin: 0%;
+	width: 99%;
+}
+
+@mixin bordesblancos{  
+  border-style: solid;
+  border-width: 4px;
+  border-color: white;
+}
+
+body {
+  background-image: url(../multimedia/papel.jpg);
+  margin: 0%;
+  text-transform: uppercase;
+  color: white;
+  font-family: $poppins; }
+
+header {
+  position: absolute; }
+  .cata {
+    @include cataheader;
+}
+  .carpena {
+  	@include carpenaheader;
+  }
+    
+.fotoiniciomain {
+  display: inline;
+  position: relative;}
+
+  .fotoinicio{
+  transform: rotate(-15deg);}
+
+
+.seccion {
+  @include cataheader; }
+
+.secciondos {
+  @include carpenaheader;}
+
+
+nav {
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: white;
+  display: inline-flex;
+  position: fixed;
+  font-family: $bebas;
+  z-index: 6;
+  background-color: #151515; }
+  nav ul {
+      position: relative;
+    list-style: none;
+    display: inline-flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    flex-grow: 1; }
+    nav ul li{
+      color: white;
+    }
+    nav ul li:hover {
+      color: $amarillo;
+      font-weight: 700;
+      transform: translateY(-3px); }
+
+a {
+  color: white;
+  text-decoration: none; }
+
+a:hover {
+  text-decoration: none;
+  color: white; }
+
+.redes {
+  display: inline-flex;
+  position: fixed;
+  flex-direction: column;
+  z-index: 3;
+  justify-content: center;
+  align-content: space-around;}
+
+.redesimg{
+  align-content: stretch; 
+  z-index: 4;}
+
+.redesimg:hover{
+      transform: translateY(-3px);}
+
+ .pmusica{
+    position: relative;
+    text-align: justify;
+  }
+
+.musicaseccion {
+  position: relative;
+  margin: 0%;
+  padding: 0%;}
+
+.ael {
+  border-style: solid;
+  border-color: white;
+  top: 0rem; 
+  margin: 0%;
+  display: flex;
+  width: 100%;
+  position: relative; }
+
+.musicaredes {
+  position: relative; }
+
+.musicaredes3{
+	width: 10%;
+  position: relative;  
+ }
+
+.musicaredes23{
+	width: 10%;
+  position: relative;  
+  }
+
+.sectionmusic{
+  margin: 1%;
+  display: grid;
+  height: 5%;
+  width: 98%;
+  position: relative;
+  grid-template-rows: 50% 50%;
+  grid-template-columns: 33% 33% 33%;
+  grid-column-gap: 1%;   
+   }
+
+.imgmusisection1{
+  @include bordesblancos;
+  @include imgseccionmusica;}
+
+.imgmusisection2{
+  @include bordesblancos;
+  @include imgseccionmusica; }
+
+.imgmusisection3{
+  @include bordesblancos;
+ @include imgseccionmusica;
+  width: 97%;  }
+
+.imgmusisection4{
+  @include bordesblancos;
+  @include imgseccionmusica; }
+
+.imgmusisection5{
+  @include bordesblancos;
+  @include imgseccionmusica; }
+
+.imgmusisection6{
+  @include bordesblancos;
+  @include imgseccionmusica; }
+
+.h1musica {
+  @include h1;  }
+
+.h1galeria {
+@include h1;  }
+
+.h1agenda {
+@include h1;  }
+
+.h1recomendades {
+@include h1; }
+
+.h1contacto {
+@include h1;  }
+
+.agendagrid {
+  text-align: center;
+  display: grid;
+  margin: 0%;
+  position: relative;
+  @include bordesblancos;}
+
+
+#galeriaboot {
+  margin: 0%;
+  padding: 0%;
+  position: relative;  }
+
+#imagenesboot{  
+  border-style: double;
+  border-color: white; 
+  border-width: 10px;}
+
+.mainrecomendades{
+  margin: 0%;
+  position: relative; }
+
+.sectionrecomendades{
+  margin: 0%;
+  position: relative; }
+
+
+.fotoplaylist{
+  position: relative;
+  transform: rotate(-5deg);
+}
+
+.fotoplaylist2{
+  position: relative;
+  transform: rotate(7deg);
+}
+.fotoinspi{
+  position: relative;
+}
+
+#formularioboots {
+  position: relative;
+  border-style: solid;
+  border-color: white;
+  border-width: 10%;
+  padding: 1%;  }
+
+#formucentro {
+  position: relative; }
+
+#formucentrodos {
+  color: black;
+  position: relative;
+  background-color: $amarillo;
+  border-style: solid;
+  border-color: $amarillo; 
+  margin: 1%;}
+
+footer {
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: white;
+  margin: 0%;
+  background-color: #151515;
+  position: relative;
+  font-family: $poppins;}
+    .redesimgfooter{
+      width: 3%;} 
+      .redesimgfooter:hover{
+      transform: translateY(-3px);}

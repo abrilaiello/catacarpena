@@ -1,0 +1,1037 @@
+@media only screen and (min-width: 320px) and (max-width: 420px) {
+  header {
+    width: 75%;
+    height: 30%;
+    top: 22rem;
+    left: 2rem; }
+  .cata {
+    font-size: 175%;
+    top: 0rem;
+    left: 1rem; }
+  .carpena {
+    font-size: 175%;
+    top: -4rem;
+    left: 3rem; }
+  .fotoiniciomain {
+    left: 4rem;
+    top: 4rem; }
+  .fotoinicio {
+    width: 64%; }
+  .headersecciones {
+    font-size: 514%;
+    width: 85%;
+    height: 10%;
+    top: 6rem;
+    left: 2rem; }
+  .seccion {
+    top: -1rem; }
+  .secciondos {
+    left: 3rem;
+    top: -7rem;
+    width: 2rem;
+    height: 7rem; }
+  nav {
+    width: 110%;
+    height: 6%;
+    font-size: 111%;
+    left: -2rem; }
+  nav ul {
+    width: 100%; }
+  .redes {
+    width: 3rem;
+    height: 8rem;
+    top: 6rem;
+    left: 0rem;
+    margin: 0%; }
+  .redesimg {
+    width: 38%;
+    margin-left: 21%;
+    margin-top: 13%; }
+  .pmusica {
+    font-size: 89%;
+    top: 24rem;
+    margin: 1%; }
+  .musicaseccion {
+    top: 27rem; }
+  .ael {
+    top: 0rem;
+    margin: 0%;
+    width: 100%;
+    height: 10%; }
+  .musicaredes {
+    left: 9rem;
+    top: -2rem;
+    width: 7%; }
+  .musicaredes3 {
+    width: 10%;
+    top: -2rem;
+    left: 3rem; }
+  .musicaredes23 {
+    width: 10%;
+    top: -2rem;
+    left: 5rem; }
+  .sectionmusic {
+    top: 26rem;
+    grid-template-rows: 33% 33% 33%;
+    grid-template-columns: 50% 50%; }
+  .h1musica {
+    top: 19rem;
+    font-size: 400%;
+    left: 3rem; }
+  .h1galeria {
+    top: 19rem;
+    font-size: 390%;
+    left: 3rem; }
+  .h1agenda {
+    top: 19rem;
+    font-size: 400%;
+    left: 2rem; }
+  .h1recomendades {
+    top: 19rem;
+    font-size: 259%;
+    left: 0rem; }
+  .h1contacto {
+    top: 19rem;
+    font-size: 332%;
+    left: 1rem; }
+  .agendagrid {
+    grid-template-rows: 33% 33% 33%;
+    left: 1rem;
+    top: 20rem;
+    width: 91%;
+    height: 11rem;
+    grid-template-columns: 18% 35% 24% 23%;
+    font-size: 58%; }
+  .agendis {
+    padding: 14%; }
+  .agendaredes {
+    width: 35%; }
+  #galeriaboot {
+    top: 20rem;
+    left: 2rem;
+    width: 82%; }
+  .mainrecomendades {
+    top: 24rem;
+    height: 33rem; }
+  .h2reco {
+    font-size: 200%;
+    text-align: right; }
+  .sectionrecomendades {
+    top: 25rem;
+    height: 26rem; }
+  .h2reco2 {
+    position: relative;
+    font-size: 150%;
+    text-align: left; }
+  .fotoplaylist {
+    width: 55%;
+    top: 2rem;
+    left: 1rem; }
+  .fotoplaylist2 {
+    width: 55%;
+    top: 3rem;
+    left: 7rem; }
+  .fotoinspi {
+    width: 40%;
+    margin: 2%;
+    left: 1rem; }
+  #formularioboots {
+    width: 94%;
+    top: 20rem;
+    margin: 3%; }
+  #formucentro {
+    left: 0rem; }
+  #formucentrodos {
+    left: 4rem; }
+  footer {
+    top: 25rem;
+    font-size: 82%;
+    height: 3rem; }
+  .redesimgfooter {
+    width: 5%; } }
+
+@media only screen and (min-width: 420px) and (max-width: 700px) {
+  nav {
+    width: 112%;
+    height: 7%;
+    font-size: 130%;
+    left: -3rem; }
+    nav ul {
+      width: 100%;
+      position: relative; }
+  header {
+    width: 74%;
+    height: 30%;
+    top: 28rem;
+    left: 2rem; }
+  .cata {
+    font-size: 270%;
+    top: 0rem;
+    left: 1rem; }
+  .carpena {
+    font-size: 270%;
+    top: -5rem;
+    left: 4rem; }
+  .headersecciones {
+    font-size: 690%;
+    width: 73%;
+    height: 10%;
+    top: 5rem;
+    left: 3rem; }
+  .seccion {
+    top: -1rem; }
+  .secciondos {
+    left: 4rem;
+    top: -9rem; }
+  .fotoiniciomain {
+    left: 4rem;
+    top: 5rem; }
+  .fotoinicio {
+    width: 70%; }
+  .redes {
+    width: 3rem;
+    height: 8rem;
+    top: 6rem;
+    left: 0rem;
+    margin: 0%; }
+  .redesimg {
+    width: 47%;
+    margin-left: 21%;
+    margin-top: 14%; }
+  .h1musica {
+    font-size: 460%;
+    top: 19rem;
+    left: 5rem; }
+  .pmusica {
+    position: relative;
+    font-size: 89%;
+    top: 23rem;
+    margin: 1%;
+    text-align: justify; }
+  .musicaseccion {
+    margin: 0%;
+    top: 26rem; }
+  .ael {
+    top: 0rem; }
+  .musicaredes {
+    left: 12rem;
+    top: -3rem;
+    width: 7%; }
+  .sectionmusic {
+    top: 26rem;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 33% 33% 33%; }
+  .musicaredes3 {
+    width: 10%;
+    top: -2rem;
+    left: 4rem; }
+  .musicaredes23 {
+    width: 10%;
+    top: -2rem;
+    left: 6rem; }
+  .h1galeria {
+    font-size: 450%;
+    top: 19rem;
+    left: 5rem; }
+  #galeriaboot {
+    top: 23rem;
+    left: 0rem;
+    width: 100%; }
+  .h1agenda {
+    font-size: 450%;
+    top: 19rem;
+    left: 5rem; }
+  .agendaredes {
+    width: 25%; }
+  .agendagrid {
+    left: 1rem;
+    top: 21rem;
+    width: 92%;
+    height: 17rem;
+    padding: 2%;
+    padding-top: 10%;
+    grid-template-columns: 21% 37% 21% 29%;
+    grid-template-rows: 33% 33% 33%;
+    font-size: 77%; }
+  .h1recomendades {
+    font-size: 341%;
+    left: 0rem;
+    top: 19rem; }
+  .mainrecomendades {
+    top: 24rem;
+    height: 33rem; }
+  .h2reco {
+    font-size: 230%;
+    text-align: right; }
+  .sectionrecomendades {
+    top: 38rem;
+    height: 30rem; }
+  .h2reco2 {
+    position: relative;
+    font-size: 180%;
+    text-align: left; }
+  .fotoplaylist {
+    width: 60%;
+    top: 2rem;
+    left: 1rem; }
+  .fotoplaylist2 {
+    width: 60%;
+    top: 4rem;
+    left: 9rem; }
+  .fotoinspi {
+    width: 40%;
+    margin: 2%;
+    left: 1rem; }
+  .h1contacto {
+    font-size: 448%;
+    left: 1rem;
+    top: 19rem; }
+  #formularioboots {
+    position: relative;
+    width: 82%;
+    left: 2rem;
+    top: 25rem;
+    margin: 0%;
+    padding: 3%; }
+  #formucentro {
+    left: 1rem;
+    position: relative; }
+  #formucentrodos {
+    color: black;
+    position: relative;
+    background-color: #ffe200;
+    left: 5rem;
+    border-style: solid;
+    border-color: #ffe200; }
+  footer {
+    top: 37rem;
+    font-size: 109%;
+    height: 4rem; }
+  .redesimgfooter {
+    width: 5%; } }
+
+@media only screen and (min-width: 700px) and (max-width: 1023px) {
+  nav {
+    width: 110%;
+    height: 7%;
+    font-size: 195%;
+    left: -3rem; }
+  header {
+    width: 43%;
+    height: 31%;
+    top: 10rem;
+    left: 23rem; }
+  header .cata {
+    font-size: 290%;
+    top: 0rem;
+    left: 0rem; }
+  header .carpena {
+    font-size: 290%;
+    top: -6rem;
+    left: 4rem; }
+  .headersecciones {
+    font-size: 690%;
+    width: 50%;
+    height: 10%;
+    top: 6rem;
+    left: 3rem; }
+  .seccion {
+    top: -1rem; }
+  .secciondos {
+    left: 4rem;
+    top: -9rem; }
+  .fotoiniciomain {
+    left: 3rem;
+    top: 2rem; }
+  .fotoinicio {
+    position: relative;
+    left: 0rem;
+    top: 3rem;
+    width: 41%; }
+  .redes {
+    top: 13rem;
+    left: 0rem;
+    width: 3rem;
+    height: 10rem; }
+  .redesimg {
+    width: 52%;
+    margin-left: 26%;
+    margin-top: 9%; }
+  .h1musica {
+    font-size: 482%;
+    top: 11rem;
+    left: 30rem; }
+  .pmusica {
+    font-size: 102%;
+    top: 21rem;
+    margin: 1%;
+    text-align: center; }
+  .musicaseccion {
+    margin: 0%;
+    top: 24rem; }
+  .ael {
+    top: 0rem; }
+  .musicaredes {
+    left: 22rem;
+    top: -5rem;
+    width: 7%; }
+  .sectionmusic {
+    top: 21rem; }
+  .musicaredes3 {
+    top: -3rem;
+    left: 5rem;
+    width: 10%; }
+  .musicaredes23 {
+    top: -3rem;
+    left: 6rem;
+    width: 10%; }
+  .h1galeria {
+    font-size: 482%;
+    top: 11rem;
+    left: 29rem; }
+  #galeriaboot {
+    top: 18rem;
+    left: 5rem;
+    width: 86%; }
+  .h1agenda {
+    font-size: 482%;
+    top: 11rem;
+    left: 29rem; }
+  .agendagrid {
+    top: 18rem;
+    width: 96%;
+    height: 15rem;
+    left: 1rem;
+    padding-top: 3%;
+    grid-row-gap: 0rem;
+    grid-template-columns: 21% 32% 24% 23%;
+    grid-template-rows: 33% 33% 33%;
+    font-size: 108%; }
+  .agendis {
+    padding: 6%; }
+  .agendaredes {
+    width: 25%; }
+  .h1recomendades {
+    font-size: 256%;
+    top: 13rem;
+    left: 28rem; }
+  .mainrecomendades {
+    top: 20rem;
+    height: 33rem; }
+  .h2reco {
+    font-size: 270%;
+    text-align: left; }
+  .sectionrecomendades {
+    top: 27rem;
+    height: 52rem; }
+  .h2reco2 {
+    position: relative;
+    font-size: 240%;
+    text-align: right; }
+  .fotoplaylist {
+    width: 45%;
+    top: 2rem;
+    left: 1rem; }
+  .fotoplaylist2 {
+    width: 45%;
+    top: 4rem;
+    left: 3rem; }
+  .fotoinspi {
+    width: 40%;
+    margin: 2%;
+    left: 3rem; }
+  .h1contacto {
+    font-size: 369%;
+    top: 12rem;
+    left: 28rem; }
+  #formularioboots {
+    top: 19rem;
+    width: 59%; }
+  #formucentro {
+    left: 4rem; }
+  #formucentrodos {
+    left: 8rem; }
+  footer {
+    top: 25rem;
+    font-size: 99%;
+    height: 2rem; }
+  .redesimgfooter {
+    width: 3%; } }
+
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
+  nav {
+    width: 110%;
+    height: 8%;
+    font-size: 214%;
+    left: -4rem; }
+  header {
+    width: 45%;
+    height: 31%;
+    top: 8rem;
+    left: 31rem; }
+  header .cata {
+    font-size: 413%;
+    top: 0rem;
+    left: -2rem; }
+  header .carpena {
+    font-size: 413%;
+    top: -8rem;
+    left: 3rem; }
+  .headersecciones {
+    font-size: 934%;
+    width: 40%;
+    height: 52%;
+    top: 8rem;
+    left: 3rem; }
+  .seccion {
+    top: -3rem; }
+  .secciondos {
+    left: 5rem;
+    top: -13rem; }
+  .fotoiniciomain {
+    left: 5rem;
+    top: 6rem; }
+  .fotoinicio {
+    width: 36%;
+    transform: rotate(-15deg); }
+  .redes {
+    top: 7rem;
+    left: 0rem;
+    width: 3rem;
+    height: 14rem; }
+  .redesimg {
+    width: 53%;
+    margin-left: 10%;
+    margin-top: 41%; }
+  .h1musica {
+    font-size: 607%;
+    top: 14rem;
+    left: 42rem; }
+  .pmusica {
+    font-size: 100%;
+    top: 22rem;
+    margin: 1%;
+    text-align: center; }
+  .musicaseccion {
+    margin: 0%;
+    top: 28rem; }
+  .ael {
+    top: 0rem; }
+  .musicaredes {
+    left: 28em;
+    top: -6rem;
+    width: 7%; }
+  .sectionmusic {
+    top: 24rem; }
+  .musicaredes3 {
+    top: -3rem;
+    left: 7rem; }
+  .musicaredes23 {
+    top: -3rem;
+    left: 8rem; }
+  .h1galeria {
+    font-size: 610%;
+    top: 14rem;
+    left: 41rem; }
+  #galeriaboot {
+    top: 22rem;
+    left: 7rem;
+    width: 86%; }
+  .h1agenda {
+    font-size: 610%;
+    top: 14rem;
+    left: 40rem; }
+  .agendagrid {
+    top: 23rem;
+    width: 95%;
+    height: 26rem;
+    padding-top: 3%;
+    grid-row-gap: 0rem;
+    grid-template-columns: 21% 30% 25% 24%;
+    grid-template-rows: 33% 33% 33%;
+    font-size: 132%;
+    left: 2rem; }
+  .agendaredes {
+    width: 15%; }
+  .agendis {
+    padding: 10%; }
+  .h1recomendades {
+    font-size: 353%;
+    top: 16rem;
+    left: 37rem; }
+  .mainrecomendades {
+    top: 20rem;
+    height: 33rem; }
+  .h2reco {
+    font-size: 300%;
+    text-align: left; }
+  .sectionrecomendades {
+    top: 30rem;
+    height: 30rem; }
+  .h2reco2 {
+    position: relative;
+    font-size: 290%;
+    text-align: right; }
+  .fotoplaylist {
+    width: 40%;
+    top: 2rem;
+    left: 4rem; }
+  .fotoplaylist2 {
+    width: 40%;
+    top: 4rem;
+    left: 7rem; }
+  .fotoinspi {
+    width: 24%;
+    margin: 0%;
+    left: 1rem; }
+  .h1contacto {
+    font-size: 500%;
+    top: 15rem;
+    left: 37rem; }
+  #formularioboots {
+    top: 23rem;
+    width: 59%; }
+  #formucentro {
+    left: 10rem; }
+  #formucentrodos {
+    left: 14rem; }
+  footer {
+    top: 29rem;
+    font-size: 132%;
+    height: 3rem; }
+  .redesimgfooter {
+    width: 2%; } }
+
+@media only screen and (min-width: 1200px) {
+  nav {
+    width: 110%;
+    height: 8%;
+    font-size: 214%;
+    left: -4rem; }
+  header {
+    width: 45%;
+    height: 31%;
+    top: 13rem;
+    left: 41rem; }
+  header .cata {
+    font-size: 550%;
+    top: 0rem;
+    left: -2rem; }
+  header .carpena {
+    font-size: 550%;
+    top: -9rem;
+    left: 4rem; }
+  .headersecciones {
+    font-size: 1000%;
+    width: 40%;
+    height: 11%;
+    top: 8rem;
+    left: 4rem; }
+  .seccion {
+    top: -3rem; }
+  .secciondos {
+    left: 5rem;
+    top: -13rem; }
+  .fotoiniciomain {
+    left: 6rem;
+    top: 9rem; }
+  .fotoinicio {
+    width: 35%;
+    transform: rotate(-15deg);
+    border-width: 15px;
+    border-bottom-width: 90px; }
+  .redes {
+    top: 7rem;
+    left: 0rem;
+    width: 3rem;
+    height: 16rem; }
+  .redesimg {
+    width: 53%;
+    margin-left: 10%;
+    margin-top: 41%; }
+  .h1musica {
+    font-size: 710%;
+    top: 16rem;
+    left: 58rem; }
+  .pmusica {
+    font-size: 100%;
+    top: 26rem;
+    margin: 1%;
+    text-align: center; }
+  .musicaseccion {
+    margin: 0%;
+    top: 31rem; }
+  .ael {
+    top: 0rem; }
+  .musicaredes {
+    left: 40em;
+    top: -7rem;
+    width: 6%; }
+  .sectionmusic {
+    top: 26rem; }
+  .musicaredes3 {
+    top: -3rem;
+    left: 11rem;
+    width: 7%; }
+  .musicaredes23 {
+    top: -3rem;
+    left: 12rem;
+    width: 7%; }
+  .h1galeria {
+    font-size: 710%;
+    top: 15rem;
+    left: 57rem; }
+  #galeriaboot {
+    top: 22rem;
+    left: 18rem;
+    width: 64%; }
+  .h1agenda {
+    font-size: 710%;
+    top: 15rem;
+    left: 56rem; }
+  .agendagrid {
+    top: 23rem;
+    left: 4rem;
+    width: 90%;
+    height: 23rem;
+    grid-row-gap: 0rem;
+    grid-template-columns: 21% 31% 25% 23%;
+    grid-template-rows: 33% 33% 33%;
+    font-size: 185%;
+    padding-top: 3%; }
+  .agendaredes {
+    width: 15%; }
+  .agendis {
+    padding: 4%; }
+  .h1recomendades {
+    font-size: 530%;
+    top: 15rem;
+    left: 43rem; }
+  .mainrecomendades {
+    top: 24rem;
+    height: 33rem; }
+  .h2reco {
+    font-size: 370%;
+    text-align: left; }
+  .sectionrecomendades {
+    top: 45rem;
+    height: 55rem; }
+  .h2reco2 {
+    position: relative;
+    font-size: 310%;
+    text-align: right; }
+  .fotoplaylist {
+    width: 40%;
+    top: 2rem;
+    left: 6rem; }
+  .fotoplaylist2 {
+    width: 40%;
+    top: 4rem;
+    left: 12rem; }
+  .fotoinspi {
+    width: 24%;
+    left: 1rem; }
+  .h1contacto {
+    font-size: 580%;
+    top: 14rem;
+    left: 50rem; }
+  #formularioboots {
+    top: 23rem;
+    width: 53%; }
+  #formucentro {
+    left: 14rem; }
+  #formucentrodos {
+    left: 16rem; }
+  footer {
+    top: 42rem;
+    font-size: 122%;
+    height: 3rem;
+    text-align: center; }
+  .redesimgfooter {
+    width: 1%; } }
+
+body {
+  background-image: url(../multimedia/papel.jpg);
+  margin: 0%;
+  text-transform: uppercase;
+  color: white;
+  font-family: "poppins", sans-serif; }
+
+header {
+  position: absolute; }
+
+.cata {
+  color: white;
+  position: relative;
+  z-index: 2;
+  font-family: "Bebas Neue", sans-serif; }
+
+.carpena {
+  color: #ffe200;
+  position: relative;
+  font-family: "Bebas Neue", sans-serif; }
+
+.fotoiniciomain {
+  display: inline;
+  position: relative; }
+
+.fotoinicio {
+  transform: rotate(-15deg); }
+
+.seccion {
+  color: white;
+  position: relative;
+  z-index: 2;
+  font-family: "Bebas Neue", sans-serif; }
+
+.secciondos {
+  color: #ffe200;
+  position: relative;
+  font-family: "Bebas Neue", sans-serif; }
+
+nav {
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: white;
+  display: inline-flex;
+  position: fixed;
+  font-family: "Bebas Neue", sans-serif;
+  z-index: 6;
+  background-color: #151515; }
+
+nav ul {
+  position: relative;
+  list-style: none;
+  display: inline-flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  flex-grow: 1; }
+
+nav ul li {
+  color: white; }
+
+nav ul li:hover {
+  color: #ffe200;
+  font-weight: 700;
+  transform: translateY(-3px); }
+
+a {
+  color: white;
+  text-decoration: none; }
+
+a:hover {
+  text-decoration: none;
+  color: white; }
+
+.redes {
+  display: inline-flex;
+  position: fixed;
+  flex-direction: column;
+  z-index: 3;
+  justify-content: center;
+  align-content: space-around; }
+
+.redesimg {
+  align-content: stretch;
+  z-index: 4; }
+
+.redesimg:hover {
+  transform: translateY(-3px); }
+
+.pmusica {
+  position: relative;
+  text-align: justify; }
+
+.musicaseccion {
+  position: relative;
+  margin: 0%;
+  padding: 0%; }
+
+.ael {
+  border-style: solid;
+  border-color: white;
+  top: 0rem;
+  margin: 0%;
+  display: flex;
+  width: 100%;
+  position: relative; }
+
+.musicaredes {
+  position: relative; }
+
+.musicaredes3 {
+  width: 10%;
+  position: relative; }
+
+.musicaredes23 {
+  width: 10%;
+  position: relative; }
+
+.sectionmusic {
+  margin: 1%;
+  display: grid;
+  height: 5%;
+  width: 98%;
+  position: relative;
+  grid-template-rows: 50% 50%;
+  grid-template-columns: 33% 33% 33%;
+  grid-column-gap: 1%; }
+
+.imgmusisection1 {
+  border-style: solid;
+  border-width: 4px;
+  border-color: white;
+  margin: 0%;
+  width: 99%; }
+
+.imgmusisection2 {
+  border-style: solid;
+  border-width: 4px;
+  border-color: white;
+  margin: 0%;
+  width: 99%; }
+
+.imgmusisection3 {
+  border-style: solid;
+  border-width: 4px;
+  border-color: white;
+  margin: 0%;
+  width: 99%;
+  width: 97%; }
+
+.imgmusisection4 {
+  border-style: solid;
+  border-width: 4px;
+  border-color: white;
+  margin: 0%;
+  width: 99%; }
+
+.imgmusisection5 {
+  border-style: solid;
+  border-width: 4px;
+  border-color: white;
+  margin: 0%;
+  width: 99%; }
+
+.imgmusisection6 {
+  border-style: solid;
+  border-width: 4px;
+  border-color: white;
+  margin: 0%;
+  width: 99%; }
+
+.h1musica {
+  margin: 0%;
+  color: white;
+  display: inline-flex;
+  font-family: "poppins", sans-serif;
+  position: relative;
+  border-bottom-style: solid;
+  border-bottom-color: white; }
+
+.h1galeria {
+  margin: 0%;
+  color: white;
+  display: inline-flex;
+  font-family: "poppins", sans-serif;
+  position: relative;
+  border-bottom-style: solid;
+  border-bottom-color: white; }
+
+.h1agenda {
+  margin: 0%;
+  color: white;
+  display: inline-flex;
+  font-family: "poppins", sans-serif;
+  position: relative;
+  border-bottom-style: solid;
+  border-bottom-color: white; }
+
+.h1recomendades {
+  margin: 0%;
+  color: white;
+  display: inline-flex;
+  font-family: "poppins", sans-serif;
+  position: relative;
+  border-bottom-style: solid;
+  border-bottom-color: white; }
+
+.h1contacto {
+  margin: 0%;
+  color: white;
+  display: inline-flex;
+  font-family: "poppins", sans-serif;
+  position: relative;
+  border-bottom-style: solid;
+  border-bottom-color: white; }
+
+.agendagrid {
+  text-align: center;
+  display: grid;
+  margin: 0%;
+  position: relative;
+  border-style: solid;
+  border-width: 4px;
+  border-color: white; }
+
+#galeriaboot {
+  margin: 0%;
+  padding: 0%;
+  position: relative; }
+
+#imagenesboot {
+  border-style: double;
+  border-color: white;
+  border-width: 10px; }
+
+.mainrecomendades {
+  margin: 0%;
+  position: relative; }
+
+.sectionrecomendades {
+  margin: 0%;
+  position: relative; }
+
+.fotoplaylist {
+  position: relative;
+  transform: rotate(-5deg); }
+
+.fotoplaylist2 {
+  position: relative;
+  transform: rotate(7deg); }
+
+.fotoinspi {
+  position: relative; }
+
+#formularioboots {
+  position: relative;
+  border-style: solid;
+  border-color: white;
+  border-width: 10%;
+  padding: 1%; }
+
+#formucentro {
+  position: relative; }
+
+#formucentrodos {
+  color: black;
+  position: relative;
+  background-color: #ffe200;
+  border-style: solid;
+  border-color: #ffe200;
+  margin: 1%; }
+
+footer {
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: white;
+  margin: 0%;
+  background-color: #151515;
+  position: relative;
+  font-family: "poppins", sans-serif; }
+
+.redesimgfooter {
+  width: 3%; }
+
+.redesimgfooter:hover {
+  transform: translateY(-3px); }

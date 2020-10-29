@@ -1,0 +1,205 @@
+$amarillo: #ffe200;
+@mixin toph1{
+  top: 19rem;
+}
+
+@media only screen and (min-width: 420px) and (max-width: 700px) {   
+  nav{
+    width: 112%;
+    height: 7%;
+    font-size: 130%;
+    left: -3rem;  
+    ul{ 
+      width: 100%;
+      position: relative;}}
+
+header {
+    width: 74%;
+    height: 30%;
+    top: 28rem;
+    left: 2rem; }
+  .cata {
+    font-size: 270%;
+    top: 0rem;
+    left: 1rem;
+}
+  .carpena {
+    font-size: 270%;
+    top: -5rem;
+    left: 4rem;
+  }
+  .headersecciones{
+    font-size: 690%;
+    width: 73%;
+    height: 10%;
+    top: 5rem;
+    left: 3rem; }
+    .seccion{
+    top: -1rem; }
+    .secciondos{
+    left: 4rem;
+    top: -9rem;  }
+
+  .fotoiniciomain {
+    left: 4rem;
+    top: 5rem;  }
+
+  .fotoinicio{
+    width: 70%;
+  }
+
+  .redes {
+  width: 3rem;
+  height: 8rem;
+  top: 6rem;
+  left: 0rem;
+  margin: 0%; }
+  .redesimg{
+      width: 47%;
+      margin-left: 21%;
+      margin-top: 14%; }
+
+  .h1musica{
+    font-size: 460%;
+    @include toph1
+    left: 5rem;
+  }
+
+  .pmusica{
+    position: relative;
+    font-size: 89%;
+    top: 23rem;
+    margin: 1%;
+    text-align: justify;
+  }
+
+  .musicaseccion{
+    margin: 0%;
+    top: 26rem; }
+
+   .ael{
+    top: 0rem;   }
+    .musicaredes{
+      left: 12rem;
+      top: -3rem;
+      width: 7%;   }
+
+.sectionmusic{
+  top: 26rem;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 33% 33% 33%; }
+
+  .musicaredes3{
+    width: 10%;
+    top: -2rem;
+    left: 4rem;  }
+  .musicaredes23{
+    width: 10%;
+    top: -2rem;
+    left: 6rem;  }
+
+  .h1galeria{
+    font-size: 450%;
+    @include toph1
+    left: 5rem;
+  }
+
+  #galeriaboot{
+    top: 23rem;
+    left: 0rem;
+    width: 100%;  }
+
+  .h1agenda{
+    font-size: 450%;
+    @include toph1
+    left: 5rem;
+  }
+
+  .agendaredes{
+  width: 25%; }
+
+  .agendagrid{
+    left: 1rem;
+    top: 21rem;
+    width: 92%;
+    height: 17rem;
+    padding: 2%;
+    padding-top: 10%;
+    grid-template-columns: 21% 37% 21% 29%;
+    grid-template-rows: 33% 33% 33%;
+    font-size: 77%;  }
+  
+
+  .h1recomendades{
+    font-size: 341%;
+    left: 0rem;
+    @include toph1
+  }
+
+.mainrecomendades{ 
+  top: 24rem;
+  height: 33rem;}
+
+.h2reco{
+  font-size: 230%;
+  text-align: right;
+}
+.sectionrecomendades{
+  top: 38rem;
+  height: 30rem;}
+.h2reco2{
+  position: relative;
+  font-size: 180%;
+  text-align: left;
+}
+.fotoplaylist{
+  width: 60%;
+  top: 2rem;
+  left: 1rem;
+}
+.fotoplaylist2{
+  width: 60%;
+  top: 4rem;
+  left: 9rem;
+}
+.fotoinspi{
+  width: 40%;
+  margin: 2%;
+  left: 1rem;
+}
+
+  .h1contacto{
+    font-size: 448%;
+    left: 1rem;
+    @include toph1
+  }
+
+  #formularioboots{
+    position: relative;
+    width: 82%;
+    left: 2rem;
+    top: 25rem;
+    margin: 0%;
+    padding: 3%;
+  }
+
+  #formucentro{
+    left: 1rem;
+  position: relative;
+  }
+
+  #formucentrodos{
+  color: black;
+  position: relative;
+  background-color: $amarillo;  
+  left: 5rem;
+  border-style: solid;
+  border-color: $amarillo;
+  }
+  footer {
+    top: 37rem;
+    font-size: 109%;
+    height: 4rem; }
+    .redesimgfooter{
+      width: 5%; }
+    }
