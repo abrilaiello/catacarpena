@@ -125,6 +125,8 @@ a:hover {
       transform: translateY(-3px);}
 
  .pmusica{
+  width: 93%;
+  left: 2rem;
     position: relative;
     text-align: justify;
   }
@@ -160,7 +162,7 @@ a:hover {
   margin: 1%;
   display: grid;
   height: 5%;
-  width: 98%;
+  width: 93%;
   position: relative;
   grid-template-rows: 50% 50%;
   grid-template-columns: 33% 33% 33%;

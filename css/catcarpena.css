@@ -668,6 +668,8 @@
     top: -7rem;
     width: 6%; }
   .sectionmusic {
+    width: 90%;
+    left: 2rem;
     top: 26rem; }
   .musicaredes3 {
     top: -3rem;
@@ -708,12 +710,16 @@
     top: 15rem;
     left: 43rem; }
   .mainrecomendades {
+    width: 96%;
+    left: 2rem;
     top: 24rem;
     height: 33rem; }
   .h2reco {
     font-size: 370%;
     text-align: left; }
   .sectionrecomendades {
+    width: 96%;
+    left: 2rem;
     top: 45rem;
     height: 55rem; }
   .h2reco2 {
@@ -839,6 +845,8 @@ a:hover {
   transform: translateY(-3px); }
 
 .pmusica {
+  width: 93%;
+  left: 2rem;
   position: relative;
   text-align: justify; }
 
@@ -871,7 +879,7 @@ a:hover {
   margin: 1%;
   display: grid;
   height: 5%;
-  width: 98%;
+  width: 93%;
   position: relative;
   grid-template-rows: 50% 50%;
   grid-template-columns: 33% 33% 33%;
