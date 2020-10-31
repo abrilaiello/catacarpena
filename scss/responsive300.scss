@@ -3,13 +3,14 @@ header {
     width: 75%;
     height: 30%;
     top: 22rem;
-    left: 2rem; }
+    left: 2rem;
+    margin-top: 10%; }
   .cata {
-    font-size: 175%;
+    font-size: 185%;
     top: 0rem;
     left: 1rem;}
   .carpena {
-    font-size: 175%;
+    font-size: 185%;
     top: -4rem;
     left: 3rem;}
 .fotoiniciomain {
@@ -50,8 +51,9 @@ nav {
     width: 38%;
     margin-left: 21%;
     margin-top: 13%;}
- .pmusica{
-    font-size: 89%;
+ .pmusica{  
+    width: 80%;
+    font-size: 84%;
     top: 24rem;
     margin: 1%;
   }
@@ -78,9 +80,12 @@ nav {
   left: 5rem;  
   }
 .sectionmusic{
-  top: 26rem;
-  grid-template-rows: 33% 33% 33%;
-  grid-template-columns: 50% 50%; }
+    width: 78%;
+    top: 26rem;
+    left: 2rem;
+    grid-template-rows: 33% 33% 33%;
+    grid-template-columns: 50% 50%; }
+
 .h1musica {
     top: 19rem; 
     font-size: 400%;    
@@ -94,18 +99,20 @@ nav {
     font-size: 400%;
     left: 2rem; }
 .h1recomendades {
-    top: 19rem; 
-    font-size: 259%;
-    left: 0rem; }
+    top: 19rem;
+    font-size: 274%;
+    left: 2rem; }
 .h1contacto {
+    margin-left: 5%;
     top: 19rem; 
-   font-size: 332%;
+    font-size: 321%;
     left: 1rem; }
 .agendagrid {
+  margin-left: 5%;
   grid-template-rows: 33% 33% 33%;
   left: 1rem;
   top: 20rem;
-  width: 91%;
+  width: 81%;
   height: 11rem;
   grid-template-columns: 18% 35% 24% 23%;
   font-size: 58%;
@@ -121,6 +128,8 @@ nav {
 
 
 .mainrecomendades{ 
+  width: 90%;
+  left: 2rem;
   top: 24rem;
   height: 33rem;}
 
@@ -129,6 +138,7 @@ nav {
   text-align: right;
 }
 .sectionrecomendades{
+  margin-left: 8%;
   top: 25rem;
   height: 26rem;}
 .h2reco2{
@@ -152,14 +162,16 @@ nav {
   left: 1rem;
 }
 #formularioboots {
-  width: 94%;
+  width: 80%;
    top: 20rem; 
-  margin: 3%;}
+  margin: 10%;
+font-size: 83%;}
 #formucentro {
     left: 0rem;
 }
 #formucentrodos {
-left: 4rem; }
+left: 3rem; 
+width: 30%; }
 footer {
     top: 25rem;
     font-size: 82%;

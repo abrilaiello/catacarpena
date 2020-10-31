@@ -27,7 +27,6 @@ $poppins: 'poppins', sans-serif;
 }
 
 @mixin h1{
-margin: 0%;
   color: white;
   display: inline-flex;
   font-family: $poppins;
@@ -125,7 +124,6 @@ a:hover {
       transform: translateY(-3px);}
 
  .pmusica{
-  width: 93%;
   left: 2rem;
     position: relative;
     text-align: justify;
@@ -162,10 +160,7 @@ a:hover {
   margin: 1%;
   display: grid;
   height: 5%;
-  width: 93%;
   position: relative;
-  grid-template-rows: 50% 50%;
-  grid-template-columns: 33% 33% 33%;
   grid-column-gap: 1%;   
    }
 
@@ -212,13 +207,11 @@ a:hover {
 .agendagrid {
   text-align: center;
   display: grid;
-  margin: 0%;
   position: relative;
   @include bordesblancos;}
 
 
 #galeriaboot {
-  margin: 0%;
   padding: 0%;
   position: relative;  }
 
@@ -228,11 +221,9 @@ a:hover {
   border-width: 10px;}
 
 .mainrecomendades{
-  margin: 0%;
   position: relative; }
 
 .sectionrecomendades{
-  margin: 0%;
   position: relative; }
 
 
@@ -275,7 +266,5 @@ footer {
   background-color: #151515;
   position: relative;
   font-family: $poppins;}
-    .redesimgfooter{
-      width: 3%;} 
       .redesimgfooter:hover{
       transform: translateY(-3px);}

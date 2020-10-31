@@ -1,6 +1,6 @@
 @media only screen and (min-width:700px) and (max-width:1023px) {   
   nav{
-    width: 110%;
+    width: 108%;
     height: 7%;
     font-size: 195%;
     left: -3rem;  }
@@ -58,6 +58,7 @@
   }
 
   .pmusica{
+    width: 90%;
     font-size: 102%;
     top: 21rem;
     margin: 1%;
@@ -76,7 +77,11 @@
       width: 7%;    }
 
   .sectionmusic{
+    width: 89%;
     top: 21rem;
+    left: 2rem;
+    grid-template-rows: 50% 50%;
+    grid-template-columns: 33% 33% 33%;
   }
 
   .musicaredes3{
@@ -96,8 +101,8 @@
 
   #galeriaboot{
     top: 18rem;
-    left: 5rem;
-    width: 86%;  }
+    left: 2rem;
+    width: 89%;  }
 
   .h1agenda{
     font-size: 482%;
@@ -106,8 +111,9 @@
   }
 
   .agendagrid{
+    margin: 5%;
     top: 18rem;
-    width: 96%;
+    width: 87%;
     height: 15rem;
     left: 1rem;
     padding-top: 3%;
@@ -127,11 +133,12 @@
   .h1recomendades{
     font-size: 256%;
     top: 13rem;
-    left: 28rem
+    left: 27rem
   }
-
   
-.mainrecomendades{ 
+.mainrecomendades{
+  width: 91%;
+  left: 3rem;
   top: 20rem;
   height: 33rem;}
 

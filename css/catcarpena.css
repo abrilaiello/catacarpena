@@ -3,13 +3,14 @@
     width: 75%;
     height: 30%;
     top: 22rem;
-    left: 2rem; }
+    left: 2rem;
+    margin-top: 10%; }
   .cata {
-    font-size: 175%;
+    font-size: 185%;
     top: 0rem;
     left: 1rem; }
   .carpena {
-    font-size: 175%;
+    font-size: 185%;
     top: -4rem;
     left: 3rem; }
   .fotoiniciomain {
@@ -48,7 +49,8 @@
     margin-left: 21%;
     margin-top: 13%; }
   .pmusica {
-    font-size: 89%;
+    width: 80%;
+    font-size: 84%;
     top: 24rem;
     margin: 1%; }
   .musicaseccion {
@@ -71,7 +73,9 @@
     top: -2rem;
     left: 5rem; }
   .sectionmusic {
+    width: 78%;
     top: 26rem;
+    left: 2rem;
     grid-template-rows: 33% 33% 33%;
     grid-template-columns: 50% 50%; }
   .h1musica {
@@ -88,17 +92,19 @@
     left: 2rem; }
   .h1recomendades {
     top: 19rem;
-    font-size: 259%;
-    left: 0rem; }
+    font-size: 274%;
+    left: 2rem; }
   .h1contacto {
+    margin-left: 5%;
     top: 19rem;
-    font-size: 332%;
+    font-size: 321%;
     left: 1rem; }
   .agendagrid {
+    margin-left: 5%;
     grid-template-rows: 33% 33% 33%;
     left: 1rem;
     top: 20rem;
-    width: 91%;
+    width: 81%;
     height: 11rem;
     grid-template-columns: 18% 35% 24% 23%;
     font-size: 58%; }
@@ -111,12 +117,15 @@
     left: 2rem;
     width: 82%; }
   .mainrecomendades {
+    width: 90%;
+    left: 2rem;
     top: 24rem;
     height: 33rem; }
   .h2reco {
     font-size: 200%;
     text-align: right; }
   .sectionrecomendades {
+    margin-left: 8%;
     top: 25rem;
     height: 26rem; }
   .h2reco2 {
@@ -136,13 +145,15 @@
     margin: 2%;
     left: 1rem; }
   #formularioboots {
-    width: 94%;
+    width: 80%;
     top: 20rem;
-    margin: 3%; }
+    margin: 10%;
+    font-size: 83%; }
   #formucentro {
     left: 0rem; }
   #formucentrodos {
-    left: 4rem; }
+    left: 3rem;
+    width: 30%; }
   footer {
     top: 25rem;
     font-size: 82%;
@@ -152,7 +163,7 @@
 
 @media only screen and (min-width: 420px) and (max-width: 700px) {
   nav {
-    width: 112%;
+    width: 113%;
     height: 7%;
     font-size: 130%;
     left: -3rem; }
@@ -162,8 +173,9 @@
   header {
     width: 74%;
     height: 30%;
-    top: 28rem;
-    left: 2rem; }
+    top: 29rem;
+    left: 2rem;
+    margin-top: 5%; }
   .cata {
     font-size: 270%;
     top: 0rem;
@@ -184,7 +196,7 @@
     left: 4rem;
     top: -9rem; }
   .fotoiniciomain {
-    left: 4rem;
+    left: 5rem;
     top: 5rem; }
   .fotoinicio {
     width: 70%; }
@@ -192,8 +204,7 @@
     width: 3rem;
     height: 8rem;
     top: 6rem;
-    left: 0rem;
-    margin: 0%; }
+    left: 0rem; }
   .redesimg {
     width: 47%;
     margin-left: 21%;
@@ -203,8 +214,9 @@
     top: 19rem;
     left: 5rem; }
   .pmusica {
+    width: 83%;
     position: relative;
-    font-size: 89%;
+    font-size: 84%;
     top: 23rem;
     margin: 1%;
     text-align: justify; }
@@ -218,6 +230,8 @@
     top: -3rem;
     width: 7%; }
   .sectionmusic {
+    width: 82%;
+    left: 2rem;
     top: 26rem;
     grid-template-columns: 50% 50%;
     grid-template-rows: 33% 33% 33%; }
@@ -234,9 +248,10 @@
     top: 19rem;
     left: 5rem; }
   #galeriaboot {
+    margin: 5%;
     top: 23rem;
-    left: 0rem;
-    width: 100%; }
+    left: 1rem;
+    width: 84%; }
   .h1agenda {
     font-size: 450%;
     top: 19rem;
@@ -244,9 +259,10 @@
   .agendaredes {
     width: 25%; }
   .agendagrid {
-    left: 1rem;
+    margin: 9%;
+    left: 0rem;
     top: 21rem;
-    width: 92%;
+    width: 85%;
     height: 17rem;
     padding: 2%;
     padding-top: 10%;
@@ -254,16 +270,19 @@
     grid-template-rows: 33% 33% 33%;
     font-size: 77%; }
   .h1recomendades {
-    font-size: 341%;
-    left: 0rem;
+    font-size: 300%;
+    left: 3rem;
     top: 19rem; }
   .mainrecomendades {
+    width: 90%;
+    left: 2rem;
     top: 24rem;
     height: 33rem; }
   .h2reco {
     font-size: 230%;
     text-align: right; }
   .sectionrecomendades {
+    margin-left: 9%;
     top: 38rem;
     height: 30rem; }
   .h2reco2 {
@@ -283,7 +302,8 @@
     margin: 2%;
     left: 1rem; }
   .h1contacto {
-    font-size: 448%;
+    margin-left: 5%;
+    font-size: 443%;
     left: 1rem;
     top: 19rem; }
   #formularioboots {
@@ -291,7 +311,7 @@
     width: 82%;
     left: 2rem;
     top: 25rem;
-    margin: 0%;
+    margin: 2%;
     padding: 3%; }
   #formucentro {
     left: 1rem;
@@ -312,7 +332,7 @@
 
 @media only screen and (min-width: 700px) and (max-width: 1023px) {
   nav {
-    width: 110%;
+    width: 108%;
     height: 7%;
     font-size: 195%;
     left: -3rem; }
@@ -362,6 +382,7 @@
     top: 11rem;
     left: 30rem; }
   .pmusica {
+    width: 90%;
     font-size: 102%;
     top: 21rem;
     margin: 1%;
@@ -376,7 +397,11 @@
     top: -5rem;
     width: 7%; }
   .sectionmusic {
-    top: 21rem; }
+    width: 89%;
+    top: 21rem;
+    left: 2rem;
+    grid-template-rows: 50% 50%;
+    grid-template-columns: 33% 33% 33%; }
   .musicaredes3 {
     top: -3rem;
     left: 5rem;
@@ -391,15 +416,16 @@
     left: 29rem; }
   #galeriaboot {
     top: 18rem;
-    left: 5rem;
-    width: 86%; }
+    left: 2rem;
+    width: 89%; }
   .h1agenda {
     font-size: 482%;
     top: 11rem;
     left: 29rem; }
   .agendagrid {
+    margin: 5%;
     top: 18rem;
-    width: 96%;
+    width: 87%;
     height: 15rem;
     left: 1rem;
     padding-top: 3%;
@@ -414,8 +440,10 @@
   .h1recomendades {
     font-size: 256%;
     top: 13rem;
-    left: 28rem; }
+    left: 27rem; }
   .mainrecomendades {
+    width: 91%;
+    left: 3rem;
     top: 20rem;
     height: 33rem; }
   .h2reco {
@@ -508,6 +536,7 @@
     top: 14rem;
     left: 42rem; }
   .pmusica {
+    width: 92%;
     font-size: 100%;
     top: 22rem;
     margin: 1%;
@@ -522,7 +551,11 @@
     top: -6rem;
     width: 7%; }
   .sectionmusic {
-    top: 24rem; }
+    width: 92%;
+    top: 24rem;
+    left: 2rem;
+    grid-template-rows: 50% 50%;
+    grid-template-columns: 33% 33% 33%; }
   .musicaredes3 {
     top: -3rem;
     left: 7rem; }
@@ -535,7 +568,7 @@
     left: 41rem; }
   #galeriaboot {
     top: 22rem;
-    left: 7rem;
+    left: 2rem;
     width: 86%; }
   .h1agenda {
     font-size: 610%;
@@ -558,14 +591,17 @@
   .h1recomendades {
     font-size: 353%;
     top: 16rem;
-    left: 37rem; }
+    left: 36rem; }
   .mainrecomendades {
+    width: 96%;
+    left: 2rem;
     top: 20rem;
     height: 33rem; }
   .h2reco {
     font-size: 300%;
     text-align: left; }
   .sectionrecomendades {
+    margin: 2%;
     top: 30rem;
     height: 30rem; }
   .h2reco2 {
@@ -607,7 +643,7 @@
     width: 110%;
     height: 8%;
     font-size: 214%;
-    left: -4rem; }
+    left: -5rem; }
   header {
     width: 45%;
     height: 31%;
@@ -654,7 +690,8 @@
     top: 16rem;
     left: 58rem; }
   .pmusica {
-    font-size: 100%;
+    width: 93%;
+    font-size: 133%;
     top: 26rem;
     margin: 1%;
     text-align: center; }
@@ -668,9 +705,11 @@
     top: -7rem;
     width: 6%; }
   .sectionmusic {
-    width: 90%;
+    width: 93%;
     left: 2rem;
-    top: 26rem; }
+    top: 26rem;
+    grid-template-rows: 50% 50%;
+    grid-template-columns: 33% 33% 33%; }
   .musicaredes3 {
     top: -3rem;
     left: 11rem;
@@ -845,7 +884,6 @@ a:hover {
   transform: translateY(-3px); }
 
 .pmusica {
-  width: 93%;
   left: 2rem;
   position: relative;
   text-align: justify; }
@@ -879,10 +917,7 @@ a:hover {
   margin: 1%;
   display: grid;
   height: 5%;
-  width: 93%;
   position: relative;
-  grid-template-rows: 50% 50%;
-  grid-template-columns: 33% 33% 33%;
   grid-column-gap: 1%; }
 
 .imgmusisection1 {
@@ -929,7 +964,6 @@ a:hover {
   width: 99%; }
 
 .h1musica {
-  margin: 0%;
   color: white;
   display: inline-flex;
   font-family: "poppins", sans-serif;
@@ -938,7 +972,6 @@ a:hover {
   border-bottom-color: white; }
 
 .h1galeria {
-  margin: 0%;
   color: white;
   display: inline-flex;
   font-family: "poppins", sans-serif;
@@ -947,7 +980,6 @@ a:hover {
   border-bottom-color: white; }
 
 .h1agenda {
-  margin: 0%;
   color: white;
   display: inline-flex;
   font-family: "poppins", sans-serif;
@@ -956,7 +988,6 @@ a:hover {
   border-bottom-color: white; }
 
 .h1recomendades {
-  margin: 0%;
   color: white;
   display: inline-flex;
   font-family: "poppins", sans-serif;
@@ -965,7 +996,6 @@ a:hover {
   border-bottom-color: white; }
 
 .h1contacto {
-  margin: 0%;
   color: white;
   display: inline-flex;
   font-family: "poppins", sans-serif;
@@ -976,14 +1006,12 @@ a:hover {
 .agendagrid {
   text-align: center;
   display: grid;
-  margin: 0%;
   position: relative;
   border-style: solid;
   border-width: 4px;
   border-color: white; }
 
 #galeriaboot {
-  margin: 0%;
   padding: 0%;
   position: relative; }
 
@@ -993,11 +1021,9 @@ a:hover {
   border-width: 10px; }
 
 .mainrecomendades {
-  margin: 0%;
   position: relative; }
 
 .sectionrecomendades {
-  margin: 0%;
   position: relative; }
 
 .fotoplaylist {
@@ -1037,9 +1063,6 @@ footer {
   background-color: #151515;
   position: relative;
   font-family: "poppins", sans-serif; }
-
-.redesimgfooter {
-  width: 3%; }
 
 .redesimgfooter:hover {
   transform: translateY(-3px); }

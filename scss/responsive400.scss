@@ -5,7 +5,7 @@ $amarillo: #ffe200;
 
 @media only screen and (min-width: 420px) and (max-width: 700px) {   
   nav{
-    width: 112%;
+    width: 113%;
     height: 7%;
     font-size: 130%;
     left: -3rem;  
@@ -13,11 +13,13 @@ $amarillo: #ffe200;
       width: 100%;
       position: relative;}}
 
+
 header {
     width: 74%;
     height: 30%;
-    top: 28rem;
-    left: 2rem; }
+    top: 29rem;
+    left: 2rem;
+    margin-top: 5%; }
   .cata {
     font-size: 270%;
     top: 0rem;
@@ -41,7 +43,7 @@ header {
     top: -9rem;  }
 
   .fotoiniciomain {
-    left: 4rem;
+    left: 5rem;
     top: 5rem;  }
 
   .fotoinicio{
@@ -52,8 +54,7 @@ header {
   width: 3rem;
   height: 8rem;
   top: 6rem;
-  left: 0rem;
-  margin: 0%; }
+  left: 0rem; }
   .redesimg{
       width: 47%;
       margin-left: 21%;
@@ -66,8 +67,9 @@ header {
   }
 
   .pmusica{
+    width: 83%;
     position: relative;
-    font-size: 89%;
+    font-size: 84%;
     top: 23rem;
     margin: 1%;
     text-align: justify;
@@ -85,6 +87,8 @@ header {
       width: 7%;   }
 
 .sectionmusic{
+  width: 82%;
+  left: 2rem;
   top: 26rem;
   grid-template-columns: 50% 50%;
   grid-template-rows: 33% 33% 33%; }
@@ -105,9 +109,10 @@ header {
   }
 
   #galeriaboot{
+    margin: 5%;
     top: 23rem;
-    left: 0rem;
-    width: 100%;  }
+    left: 1rem;
+    width: 84%;  }
 
   .h1agenda{
     font-size: 450%;
@@ -119,9 +124,10 @@ header {
   width: 25%; }
 
   .agendagrid{
-    left: 1rem;
+    margin: 9%;
+    left: 0rem;
     top: 21rem;
-    width: 92%;
+    width: 85%;
     height: 17rem;
     padding: 2%;
     padding-top: 10%;
@@ -130,13 +136,15 @@ header {
     font-size: 77%;  }
   
 
-  .h1recomendades{
-    font-size: 341%;
-    left: 0rem;
+  .h1recomendades{ 
+    font-size: 300%;
+    left: 3rem;
     @include toph1
   }
 
-.mainrecomendades{ 
+.mainrecomendades{
+width: 90%;
+left: 2rem; 
   top: 24rem;
   height: 33rem;}
 
@@ -145,6 +153,7 @@ header {
   text-align: right;
 }
 .sectionrecomendades{
+  margin-left: 9%;
   top: 38rem;
   height: 30rem;}
 .h2reco2{
@@ -169,7 +178,8 @@ header {
 }
 
   .h1contacto{
-    font-size: 448%;
+    margin-left: 5%;
+    font-size: 443%;
     left: 1rem;
     @include toph1
   }
@@ -179,7 +189,7 @@ header {
     width: 82%;
     left: 2rem;
     top: 25rem;
-    margin: 0%;
+    margin: 2%;
     padding: 3%;
   }
 
