@@ -713,11 +713,11 @@
     grid-template-rows: 50% 50%;
     grid-template-columns: 33% 33% 33%; }
   .musicaredes3 {
-    top: -3rem;
-    left: 11rem;
+    top: -4rem;
+    left: 9rem;
     width: 7%; }
   .musicaredes23 {
-    top: -3rem;
+    top: -4rem;
     left: 12rem;
     width: 7%; }
   .h1galeria {
@@ -726,7 +726,7 @@
     left: 57rem; }
   #galeriaboot {
     top: 22rem;
-    left: 18rem;
+    left: 3rem;
     width: 64%; }
   .h1agenda {
     font-size: 710%;
@@ -795,7 +795,7 @@
     height: 3rem;
     text-align: center; }
   .redesimgfooter {
-    width: 1%; } }
+    width: 2%; } }
 
 body {
   background-image: url(../multimedia/papel.jpg);
